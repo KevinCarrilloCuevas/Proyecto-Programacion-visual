@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\bin\Debug\Registro de usuarios.exe.config
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\bin\Debug\Registro de usuarios.exe
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\bin\Debug\Registro de usuarios.pdb
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\bin\Debug\Registro de usuarios.xml
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro de usuarios.vbprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro_de_usuarios.Form1.resources
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro_de_usuarios.Resources.resources
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro de usuarios.vbproj.GenerateResource.cache
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro de usuarios.exe
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro de usuarios.xml
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro de usuarios.pdb
