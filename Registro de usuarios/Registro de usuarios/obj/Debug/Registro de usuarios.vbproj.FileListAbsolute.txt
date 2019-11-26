@@ -9,3 +9,4 @@ C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\
 C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro de usuarios.exe
 C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro de usuarios.xml
 C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro de usuarios.pdb
+C:\Users\kevin\source\repos\Registro de usuarios\Registro de usuarios\obj\Debug\Registro_de_usuarios.Form2.resources

@@ -171,12 +171,12 @@ Partial Class Form1
         '
         'Button3
         '
-        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
+        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button3.Location = New System.Drawing.Point(94, 429)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(99, 41)
         Me.Button3.TabIndex = 16
-        Me.Button3.Text = "GUARDAR"
+        Me.Button3.Text = "Generar Usuario"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Button4
