@@ -104,6 +104,7 @@ Partial Class Form1
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(100, 20)
         Me.TextBox2.TabIndex = 6
+        Me.TextBox2.Text = " "
         '
         'TextBox3
         '
@@ -152,7 +153,7 @@ Partial Class Form1
         '
         Me.ComboBox2.ForeColor = System.Drawing.SystemColors.WindowFrame
         Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Items.AddRange(New Object() {"Administrador", "Moderador", "Editor", "Lector"})
+        Me.ComboBox2.Items.AddRange(New Object() {"Administrador", "Usuario General"})
         Me.ComboBox2.Location = New System.Drawing.Point(233, 268)
         Me.ComboBox2.Name = "ComboBox2"
         Me.ComboBox2.Size = New System.Drawing.Size(126, 21)
@@ -264,7 +265,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "+"
+        Me.Text = "Registro"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
