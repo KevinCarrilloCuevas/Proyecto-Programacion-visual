@@ -32,7 +32,6 @@ Partial Class Form1
         Me.TextBox3 = New System.Windows.Forms.TextBox()
         Me.TextBox4 = New System.Windows.Forms.TextBox()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
-        Me.Button1 = New System.Windows.Forms.Button()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.ComboBox2 = New System.Windows.Forms.ComboBox()
         Me.CheckedListBox1 = New System.Windows.Forms.CheckedListBox()
@@ -42,7 +41,7 @@ Partial Class Form1
         Me.RadioButton2 = New System.Windows.Forms.RadioButton()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.TextBox5 = New System.Windows.Forms.TextBox()
-        Me.Button5 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -130,15 +129,6 @@ Partial Class Form1
         Me.ComboBox1.Size = New System.Drawing.Size(126, 21)
         Me.ComboBox1.TabIndex = 9
         Me.ComboBox1.Text = "Estado del Empleado"
-        '
-        'Button1
-        '
-        Me.Button1.Location = New System.Drawing.Point(354, 26)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 10
-        Me.Button1.Text = "Generar Usuario"
-        Me.Button1.UseVisualStyleBackColor = True
         '
         'Label6
         '
@@ -229,21 +219,22 @@ Partial Class Form1
         Me.TextBox5.Size = New System.Drawing.Size(100, 20)
         Me.TextBox5.TabIndex = 21
         '
-        'Button5
+        'Button2
         '
-        Me.Button5.Location = New System.Drawing.Point(354, 62)
-        Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(75, 23)
-        Me.Button5.TabIndex = 22
-        Me.Button5.Text = "Generar Usuario"
-        Me.Button5.UseVisualStyleBackColor = True
+        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(243, 428)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(99, 41)
+        Me.Button2.TabIndex = 23
+        Me.Button2.Text = "Guardar Datos"
+        Me.Button2.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(541, 501)
-        Me.Controls.Add(Me.Button5)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.TextBox5)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.RadioButton2)
@@ -253,7 +244,6 @@ Partial Class Form1
         Me.Controls.Add(Me.CheckedListBox1)
         Me.Controls.Add(Me.ComboBox2)
         Me.Controls.Add(Me.Label6)
-        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.TextBox4)
         Me.Controls.Add(Me.TextBox3)
@@ -281,7 +271,6 @@ Partial Class Form1
     Friend WithEvents TextBox3 As TextBox
     Friend WithEvents TextBox4 As TextBox
     Friend WithEvents ComboBox1 As ComboBox
-    Friend WithEvents Button1 As Button
     Friend WithEvents Label6 As Label
     Friend WithEvents ComboBox2 As ComboBox
     Friend WithEvents CheckedListBox1 As CheckedListBox
@@ -291,5 +280,5 @@ Partial Class Form1
     Friend WithEvents RadioButton2 As RadioButton
     Friend WithEvents Label7 As Label
     Friend WithEvents TextBox5 As TextBox
-    Friend WithEvents Button5 As Button
+    Friend WithEvents Button2 As Button
 End Class
